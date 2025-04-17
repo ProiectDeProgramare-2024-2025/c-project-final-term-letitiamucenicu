@@ -1,0 +1,5 @@
+TeethCleaning 50.0 30
+ToothExtraction 100.0 45
+RootCanal 150.0 60
+DentalCheckup 30.0 20
+BracesConsultation 75.0 40
